@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "vectorDB-api test", "vectorDB-api test.pyproj", "{C8F56954-4F42-45D3-8CBC-6A28F6D691A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8F56954-4F42-45D3-8CBC-6A28F6D691A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8F56954-4F42-45D3-8CBC-6A28F6D691A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1D64E83-2213-49A4-9BDB-577BF41077E9}
+	EndGlobalSection
+EndGlobal
