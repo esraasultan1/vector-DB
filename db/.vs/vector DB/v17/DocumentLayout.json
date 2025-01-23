@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zigzag\\Desktop\\vector\\vector-DB\\db\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F56954-4F42-45D3-8CBC-6A28F6D691A4}|vectorDB-api test.pyproj|C:\\Users\\zigzag\\Desktop\\vector\\vector-DB\\db\\vector_DB.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C8F56954-4F42-45D3-8CBC-6A28F6D691A4}|vectorDB-api test.pyproj|solutionrelative:vector_DB.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "vector_DB.py",
+              "DocumentMoniker": "C:\\Users\\zigzag\\Desktop\\vector\\vector-DB\\db\\vector_DB.py",
+              "RelativeDocumentMoniker": "vector_DB.py",
+              "ToolTip": "C:\\Users\\zigzag\\Desktop\\vector\\vector-DB\\db\\vector_DB.py",
+              "RelativeToolTip": "vector_DB.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAOwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-01-23T12:50:21.465Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
